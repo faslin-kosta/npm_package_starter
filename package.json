@@ -1,0 +1,23 @@
+{
+  "name": "hooks",
+  "version": "0.0.1",
+  "description": "usefull hooks to use in your react projects",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faslin-kosta/hooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "react"
+  ],
+  "author": "faslin_kosta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faslin-kosta/hooks/issues"
+  },
+  "homepage": "https://github.com/faslin-kosta/hooks#readme"
+}
