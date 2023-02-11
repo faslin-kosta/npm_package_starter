@@ -1,7 +1,7 @@
 {
-  "name": "hooks",
+  "name": "npm_package_starter",
   "version": "0.0.1",
-  "description": "usefull hooks to use in your react projects",
+  "description": "everything you need to start create your own npm package",
   "main": "./src/index.js",
   "files": [
     "lib/**/*"
